@@ -63,8 +63,9 @@ This project requires the following Python libraries:
 - **Pandas**: For data handling and manipulation (Part 2).
 
 Install all dependencies via:
-- git bash
+``` git bash
 pip install splinter beautifulsoup4 matplotlib pandas
+```
 
 ## Contributers 
 - **J. Naum
