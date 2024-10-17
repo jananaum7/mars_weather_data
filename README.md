@@ -68,5 +68,5 @@ pip install splinter beautifulsoup4 matplotlib pandas
 ```
 
 ## Contributers 
-- **J. Naum
+- J. Naum
 
