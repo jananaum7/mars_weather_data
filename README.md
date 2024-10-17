@@ -12,6 +12,7 @@ This project consists of two parts: scraping Mars news headlines and preview tex
 - [Usage]
   - [Part 1: Mars News Scraper]
   - [Part 2: Mars Weather Scraper]
+- [Dependencies]
 - [Contributors]
 
 ## Installation
